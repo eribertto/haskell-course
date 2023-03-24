@@ -1,12 +1,21 @@
 
 -- Question 1
 -- Write a multiline comment below.
+{--
+
+This is a mutliline comment
+I can add mutliple lines of comments
+without worrying of messing up my code
+
+--}
 
 -- Question 2
 -- Define a function that takes a value and multiplies it by 3.
+tripleMe x = x * 3
 
 -- Question 3
 -- Define a function that calculates the area of a circle.
+areaCircle r = pi * r^2
 
 -- Question 4
 -- Define a function that calculates the volume of a cylinder by composing the previous function together with the height of the cylinder. 
